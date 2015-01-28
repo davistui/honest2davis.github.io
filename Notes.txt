@@ -1,0 +1,4 @@
+"git add * " uploads everything
+
+# uploads to the main branch
+git push origin master
